@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADITYA SACHAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://dce0qyjkutl4h.cloudfront.net/wp-content/webp-express/webp-images/uploads/2020/10/flutter-app-developer.jpg.webp")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachan-aditya&label=Profile%20views&color=0e75b6&style=flat" alt="sachan-aditya" /> </p>
 
