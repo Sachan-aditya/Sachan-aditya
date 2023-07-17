@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter <br>👯 I’m looking to collaborate on Android Development<br>🤝 I’m looking for help with  Mobile App Development<br>🌱 I’m currently learning cross platform development <br>💬 Ask me about  coding<br>⚡ Fun fact you visited here.
+🔭 I’m currently working on Flutter <br>👯 I’m looking to collaborate on Cross Platform  Development<br>🤝 I’m looking for help with  Mobile App Development<br>🌱 I’m currently learning cross platform development <br>💬 Ask me about  coding<br>⚡ Fun fact you visited here.
 
 
 ## 🌐 Socials:
