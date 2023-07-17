@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter <br>👯 I’m looking to collaborate on Android Development<br>🤝 I’m looking for help with  Mobile App Development<br>🌱 I’m currently learning cross platform development <br>💬 Ask me about  coding<br>⚡ Fun fact you visited here, and stayed till now
+🔭 I’m currently working on Flutter <br>👯 I’m looking to collaborate on Android Development<br>🤝 I’m looking for help with  Mobile App Development<br>🌱 I’m currently learning cross platform development <br>💬 Ask me about  coding<br>⚡ Fun fact you visited here.
 
 
 ## 🌐 Socials:
@@ -13,9 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachan-aditya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sachan-aditya&icon=6&color=12)](https://visitcount.itsvg.in)
