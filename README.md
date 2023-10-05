@@ -15,5 +15,3 @@
 
 # HACKTOBERFEST
 [![An image of @sachanaditya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachanaditya)](https://holopin.io/@sachanaditya)
----
-[![](https://visitcount.itsvg.in/api?id=Sachan-aditya&icon=0&color=0)](https://visitcount.itsvg.in)
