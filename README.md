@@ -1,6 +1,4 @@
 
-[![An image of @sachanaditya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachanaditya)](https://holopin.io/@sachanaditya)
-
 
 # 💫 About Me:
 🔭 I’m currently working on FLUTTER <br>👯 I’m looking to collaborate as a Team<br>🤝 I’m looking for help with Development <br>🌱 I’m currently learning cross platform development<br>💬 Ask me about Development<br>⚡ Fun fact you visited here
@@ -16,6 +14,8 @@
 ![](https://github-readme-P1.vercel.app/api?username=Sachan-aditya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sachan-aditya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-P1.vercel.app/api/top-langs/?username=Sachan-aditya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![An image of @sachanaditya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachanaditya)](https://holopin.io/@sachanaditya)
 
 
 
