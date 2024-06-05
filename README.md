@@ -37,23 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sachan-aditya/Sachan-aditya/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Sachan-aditya/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31opjsy57senjmqfc5w6wctg2aoy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31opjsy57senjmqfc5w6wctg2aoy&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 <p align="left">THIS IS WHAT I DO</p>
 
