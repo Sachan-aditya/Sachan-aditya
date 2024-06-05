@@ -29,6 +29,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="45" alt="nodejs logo" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="45" alt="vscode logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="tensorflow logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="pytorch logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" alt="opencv logo" />
 </div>
 
 ---
@@ -37,6 +45,14 @@
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I4a3h5cmV1ZWFrNnhrbW16MDVqNWdrODFnMGs1OHM2eWttcGdtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BDz6tWBtXDL4Q/giphy.gif" alt="working gif" />
+  <img src="https://i.giphy.com/media/10Ft6r9lxh4B4o/giphy.gif" alt="coding gif" />
+  <img src="https://i.giphy.com/media/Q7vnxkrpM8wCk/giphy.gif" alt="ai gif" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/570/animated-globe-image-0083.gif" alt="globe" />
 </div>
 
 ---
