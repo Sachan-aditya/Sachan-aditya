@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7F7F7&size=40&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Sachan-Aditya;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300/333/fff?text=Sachan-Aditya" alt="Sachan-aditya Banner" style="width: 100%; height: auto;" />
+  <img src="https://via.placeholder.com/1200x300/333/fff?text=Sachan-Aditya+F1+Developer" alt="Sachan-Aditya Banner" style="width: 100%; height: auto;" />
 </div>
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-  Hi! I'm Sachan-Aditya, a passionate developer with experience in various technologies including Dart, Flutter, Java, Firebase, and more. I love building mobile applications and exploring new tech trends.
+  Hi! I'm Sachan-Aditya, a passionate developer with experience in various technologies including Dart, Flutter, Java, Firebase, and more. I love building mobile applications and exploring new tech trends. Like an F1 car on the track, I'm always pushing the limits of performance and innovation.
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sachan-aditya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph" />
@@ -39,6 +39,10 @@
 <h2 align="center">🌍 Globe of Directions</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="200" alt="globe" />
+</div>
+<h2 align="center">🏎️ My GitHub Streak</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachan-aditya&theme=dracula&hide_border=false&background=000000&border=30F130&fire=30F130&ring=F13030&currStreakNum=30F130&currStreakLabel=30F130&dates=30F130" height="180" alt="GitHub Streak" />
 </div>
 <h2 align="center">📫 Connect with Me</h2>
 <div align="center">
