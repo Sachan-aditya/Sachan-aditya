@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7F7F7&size=40&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Sachan-Aditya;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 <div align="center">
-  <img src="https://github.com/Sachan-aditya/Sachan-aditya/blob/main/assets/banner.jpg" alt="Sachan-aditya Banner" style="width: 100%; height: auto;" />
+  <img src="https://via.placeholder.com/1200x300/333/fff?text=Sachan-Aditya" alt="Sachan-aditya Banner" style="width: 100%; height: auto;" />
 </div>
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
@@ -38,23 +38,31 @@
 </div>
 <h2 align="center">🌍 Globe of Directions</h2>
 <div align="center">
-  <img src="https://github.com/Sachan-aditya/Sachan-aditya/blob/main/assets/globe.gif" height="200" alt="globe" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="200" alt="globe" />
 </div>
 <h2 align="center">📫 Connect with Me</h2>
 <div align="center">
-  <a href="https://tr.ee/XKhI73Czxb" target="_blank">
+  <a href="https://tr.ee/XKhI73Czxb" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/isachan_x" target="_blank">
+  <a href="https://twitter.com/isachan_x" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="50" alt="twitter logo" />
   </a>
-  <a href="mailto:sachanaditya207@gmail.com" target="_blank">
+  <a href="mailto:sachanaditya207@gmail.com" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="50" alt="gmail logo" />
   </a>
-  <a href="https://tr.ee/WYGpY5fteV" target="_blank">
+  <a href="https://tr.ee/WYGpY5fteV" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="instagram logo" />
   </a>
   <a href="https://linktr.ee/sachan.aditya" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="50" height="50" alt="linktree logo" />
   </a>
 </div>
+<h2 align="center">🐍 Snake Game</h2>
+<div align="center">
+  <img src="https://github.com/Sachan-aditya/Sachan-aditya/blob/main/assets/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+<h2 align="center">⚡ Fun Fact</h2>
+<p align="center">
+  Did you know? The first computer virus was created in 1983 and was called the "Elk Cloner".
+</p>
