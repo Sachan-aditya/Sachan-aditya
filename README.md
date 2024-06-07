@@ -4,13 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        @keyframes fadeIn {
-            from { opacity: 0; }
-            to { opacity: 1; }
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 100%; }
+        }
+        @keyframes blink {
+            50% { border-color: transparent; }
         }
         .name {
-            opacity: 0;
-            animation: fadeIn 2s forwards;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 2em;
+            width: 0;
+            white-space: nowrap;
+            overflow: hidden;
+            border-right: 0.15em solid black;
+            animation: typing 3s steps(20, end), blink 0.75s step-end infinite;
             animation-delay: 1s;
         }
     </style>
