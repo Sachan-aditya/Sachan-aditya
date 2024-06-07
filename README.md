@@ -1,27 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        @keyframes slideIn {
-            from {
-                transform: translateX(-100%);
-                opacity: 0;
-            }
-            to {
-                transform: translateX(0);
-                opacity: 1;
-            }
-        }
-        .name {
-            opacity: 0;
-            animation: slideIn 2s forwards;
-            animation-delay: 1s;
-        }
-    </style>
-</head>
-<body>
 
 <h1 align="center">Hi 👋, I'm <span class="name">ADITYA SACHAN</span></h1>
 <h3 align="center">JAVA DEVELOPER</h3>
