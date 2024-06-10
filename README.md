@@ -143,4 +143,4 @@ Feel free to DM me on LinkedIn.
   </a>
 </p>
 <br>
-<img src="https://github.com/SACHAN-ADITYA/assets/footer.png">
+<img src="https://github.com/SACHAN-ADITYA/SACHAN-ADITYA/assets/footer.png">
