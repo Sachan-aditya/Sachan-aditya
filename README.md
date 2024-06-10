@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sachan-adityaa/Sachan-adityaa/blob/main/assets/1.gif" width="600px"/>
+  <video src="https://github.com/Sachan-adityaa/Sachan-adityaa/assets/aditya.mp4" width="600px"/>
 </p>
 <h1 align="center">
   <a href="https://www.adityasachan.in">Aditya Sachan</a> 
