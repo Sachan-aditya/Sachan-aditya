@@ -4,7 +4,8 @@
 
 ###
 
-<h4 align="center">Hello, I like building things.</h4>
+<h4 align="center" style="font-size: 24px;"><strong>Hello, I like building things. 🛠️</strong></h4>
+
 
 ###
 
@@ -19,12 +20,12 @@
 <h2 align="center">Programming Languages</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin: 10px;"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" style="margin: 10px;" />
 </div>
 
 ###
@@ -56,5 +57,6 @@
 </div>
 
 ###
+<div align="center">
 <img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21kMDV6Zmh3bmplbHIzNnhjMW44enFyYjhweXhnMzNqaHVza3FoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y6aIe3UTKvVHXbEcSm/giphy.gif"  />
-
+</div>
