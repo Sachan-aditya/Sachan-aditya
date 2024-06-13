@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">Hello, I'm Prometheus. I like building things.</h4>
+<h4 align="center">Hello, I like building things.</h4>
 
 ###
 
@@ -56,6 +56,5 @@
 </div>
 
 ###
-<img align="right" height="300" src="https://media.giphy.com/media/L1R1tvI9svbHRtEWnw/giphy.gif"  />
-<img align="right" height="300" src="https://media.giphy.com/media/3o84sBmXpMcYS/giphy.gif"  />
-<img align="right" height="300" src="https://media.giphy.com/media/13d2jmfuUisbxe/giphy.gif"  />
+<img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21kMDV6Zmh3bmplbHIzNnhjMW44enFyYjhweXhnMzNqaHVza3FoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y6aIe3UTKvVHXbEcSm/giphy.gif"  />
+
