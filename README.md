@@ -1,4 +1,5 @@
 <div align="center">
+  <h4 align="center" style="font-size: 34px;"><strong>Hello, I like building things. 🛠️</strong></h4>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachan-aditya&theme=github-dark" height="150" alt="activity-graph graph" />
   <img src="https://streak-stats.demolab.com?user=Sachan-aditya&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
