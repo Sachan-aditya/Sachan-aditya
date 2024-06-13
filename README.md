@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Sachan-aditya.Sachan-aditya&right_color=darkorange&left_text=views" />
 </div>
 
-<h4 align="center" style="font-size: 24px; background-image: linear-gradient(to right, #ff9966, #ff5e62); -webkit-background-clip: text; color: transparent;"><strong>Hello, I like building things. 🛠️</strong></h4>
+<h4 align="center" style="font-size: 34px;"><strong>Hello, I like building things. 🛠️</strong></h4>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachan-aditya&theme=github-dark" height="150" alt="activity-graph graph" />
@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachan-aditya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<h2 align="center" style="font-size: 28px; background-image: linear-gradient(to right, #45b649, #dce35b); -webkit-background-clip: text; color: transparent;"><strong>Programming Languages</strong></h2>
+<h2 align="center" style="font-size: 28px;"><strong>Programming Languages</strong></h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin: 10px;" />
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" style="margin: 10px;" />
 </div>
 
-<h2 align="center" style="font-size: 28px; background-image: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045); -webkit-background-clip: text; color: transparent;"><strong>Tools and Frameworks</strong></h2>
+<h2 align="center" style="font-size: 28px;"><strong>Tools and Frameworks</strong></h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" style="margin: 10px;" />
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" style="margin: 10px;" />
 </div>
 
-<h2 align="center" style="font-size: 28px; background-image: linear-gradient(to right, #f12711, #f5af19); -webkit-background-clip: text; color: transparent;"><strong>Connect with me</strong></h2>
+<h2 align="center" style="font-size: 28px;"><strong>Connect with me</strong></h2>
 
 <div align="center">
   <a href="https://twitter.com/isachan_x" target="_blank">
