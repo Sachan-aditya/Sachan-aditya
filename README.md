@@ -54,8 +54,7 @@
 
 ###
 
-<div align="center">
-  <h2>Play a game with me!</h2>
+<div align="center"><h2>Play a game with me!</h2>
   <a href="https://github.com/Sachan-aditya/snake-game">
     <img src="https://github.com/Sachan-aditya/snake-game/blob/main/snake-game.gif" height="200" alt="snake game"  />
   </a>
