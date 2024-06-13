@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">Hello, I'm Aditya Sachan. I am a [Your Profession/Student] at [Your University/College]. I like building things and [Your Hobby].<br><br>Find me here -> [Your Website]</h4>
+<h4 align="center">Hello, I'm Prometheus. I like building things.</h4>
 
 ###
 
@@ -16,42 +16,46 @@
 
 ###
 
-<div align="left">
+<h2 align="center">Programming Languages</h2>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <!-- Add more logos here -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
 
 ###
 
-<br clear="both">
+<h2 align="center">Tools and Frameworks</h2>
 
-<div align="left">
-  <a href="https://twitter.com/[Your Twitter Handle]" target="_blank">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="30" alt="maven logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="eclipse logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+</div>
+
+###
+
+<h2 align="center">Connect with me</h2>
+
+<div align="center">
+  <a href="https://twitter.com/isachan_x" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/[Your LinkedIn Handle]/" target="_blank">
+  <a href="https://linkedin.com/in/aditya-sachan-91679a241" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <a href="mailto:[Your Email]" target="_blank">
+  <a href="mailto:sachanaditya207@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
 </div>
 
 ###
-
-<br clear="both">
-
-<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhxOTZ1OGg2N250aXJlM2tiOXE2cmJqb3ZhanZqZjZ3cTlpcmZ1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/[Your Spotify Handle]">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=[Your Spotify Handle]&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<img align="right" height="300" src="https://media.giphy.com/media/L1R1tvI9svbHRtEWnw/giphy.gif"  />
+<img align="right" height="300" src="https://media.giphy.com/media/3o84sBmXpMcYS/giphy.gif"  />
+<img align="right" height="300" src="https://media.giphy.com/media/13d2jmfuUisbxe/giphy.gif"  />
