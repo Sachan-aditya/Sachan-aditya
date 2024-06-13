@@ -1,36 +1,37 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Sachan-aditya.Sachan-aditya&right_color=darkorange&left_text=views"  />
+  <h1>Aditya Sachan</h1>
+  <p>Software Developer | [Your University/College] | [Your Hobby]</p>
 </div>
-
-###
-
-<h4 align="left">Hello, I'm Aditya Sachan. I am a [Your Profession/Student] at [Your University/College]. I like building things and [Your Hobby].<br><br>Find me here -> [Your Website]</h4>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachan-aditya&theme=github-dark" height="150" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sachan-aditya&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachan-aditya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://github.com/Sachan-aditya">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sachan-aditya&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="github stats"  />
+  </a>
+  <a href="https://github.com/Sachan-aditya">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachan-aditya&theme=github-dark&hide_border=true" height="150" alt="github streak"  />
+  </a>
+  <a href="https://github.com/Sachan-aditya">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachan-aditya&layout=compact&theme=github_dark&hide_border=true" height="150" alt="github languages"  />
+  </a>
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
+  <h2>Skills</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
   <!-- Add more logos here -->
 </div>
 
 ###
 
-<br clear="both">
-
-<div align="left">
+<div align="center">
+  <h2>Connect with me</h2>
   <a href="https://twitter.com/[Your Twitter Handle]" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
   </a>
@@ -44,14 +45,19 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhxOTZ1OGg2N250aXJlM2tiOXE2cmJqb3ZhanZqZjZ3cTlpcmZ1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
+  <h2>Music</h2>
   <a href="https://open.spotify.com/user/[Your Spotify Handle]">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=[Your Spotify Handle]&count=5&unique=true" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <h2>Play a game with me!</h2>
+  <a href="https://github.com/Sachan-aditya/snake-game">
+    <img src="https://github.com/Sachan-aditya/snake-game/blob/main/snake-game.gif" height="200" alt="snake game"  />
+  </a>
+  <p>Play a game of Snake with me! Click the image to play.</p>
 </div>
