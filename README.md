@@ -1,9 +1,4 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sachan-aditya.Sachan-aditya&right_color=darkorange&left_text=views" />
-</div>
-
-<h4 align="center" style="font-size: 34px;"><strong>Hello, I like building things. 🛠️</strong></h4>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachan-aditya&theme=github-dark" height="150" alt="activity-graph graph" />
   <img src="https://streak-stats.demolab.com?user=Sachan-aditya&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
@@ -43,8 +38,4 @@
   <a href="mailto:sachanaditya207@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo" />
   </a>
-</div>
-
-<div align="center">
-  <img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21kMDV6Zmh3bmplbHIzNnhjMW44enFyYjhweXhnMzNqaHVza3FoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y6aIe3UTKvVHXbEcSm/giphy.gif" />
 </div>
