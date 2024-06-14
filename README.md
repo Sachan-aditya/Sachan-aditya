@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="assets://adii.gif" alt="Building things GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm91dmUybHFmYjdhaTNueDA2YnNieWkyb214czR4dWh4dmJvdWM0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xHOWbmvAbNouYCw1FM/giphy.gif" alt="Building things GIF" />
 </div>
 
 <h4 align="center" style="font-size: 34px;"><strong>Hello, I like building things. 🛠️</strong></h4>
@@ -25,11 +24,17 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="30" alt="maven logo" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="eclipse logo" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="30" alt="junit logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" height="30" alt="spring boot logo" style="margin: 10px;" />
 </div>
+
 
 <h2 align="center" style="font-size: 28px;"><strong>Connect with me</strong></h2>
 
