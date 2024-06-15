@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm91dmUybHFmYjdhaTNueDA2YnNieWkyb214czR4dWh4dmJvdWM0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xHOWbmvAbNouYCw1FM/giphy.gif" alt="Building things GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJncXo4MWk5emhkcXkwZWVlbmNndmdjM3hvMGw4OXhtbnRrb25vaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iAVk5VpmdO54jja4pw/giphy.gif" alt="Building things GIF" />
 </div>
 
 <h4 align="center" style="font-size: 34px;"><strong>Hello, I like building things. 🛠️</strong></h4>
