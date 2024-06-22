@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJncXo4MWk5emhkcXkwZWVlbmNndmdjM3hvMGw4OXhtbnRrb25vaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iAVk5VpmdO54jja4pw/giphy.gif" alt="Building things GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcyZ2JvOHhjNW1vZWNzaDVhd29tc3QydjJ5aXRxZ2s1NmV3ejg1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztiMB40sHttjmsS5j4/giphy-downsized-large.gif" alt="Building things GIF" />
 </div>
 <h4 align="center" style="font-size: 34px;"><strong> <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India Flag" style="width: 34px; vertical-align: middle;"></strong></h4>
 
