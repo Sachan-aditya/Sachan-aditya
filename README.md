@@ -21,7 +21,7 @@
 
 <h2 align="center" style="font-size: 28px;"><strong>Tools and Frameworks</strong></h2>
 
-  [![Tools and Frameworks](https://skillicons.dev/icons?i=spring,hibernate,firebase,git,maven,gradle,idea,java,redis,mysql,kafka,docker,kubernetes,appwrite,androidstudio,bash,mongodb,postman,redhat)](https://skillicons.dev)
+  [![Tools and Frameworks](https://skillicons.dev/icons?i=spring,hibernate,firebase,git,maven,gradle,idea,java,redis,mysql,kafka,docker,kubernetes,appwrite,androidstudio,bash,mongodb,postman,redhat,nodejs)](https://skillicons.dev)
 </div>
 </div>
 
