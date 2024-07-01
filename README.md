@@ -22,18 +22,3 @@
 </div>
 </div>
 
-<h2 align="center" style="font-size: 28px;"><strong>Connect with me</strong></h2>
-<div align="center" style="display: flex; justify-content: center; gap: 15px;">
-  <a href="https://twitter.com/isachan_x" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="42" alt="Twitter" style="border-radius: 50%; background-color: #1DA1F2; padding: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
-  <a href="https://linkedin.com/in/aditya-sachan-91679a241" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="42" alt="LinkedIn" style="border-radius: 50%; background-color: #0077B5; padding: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
-  <a href="mailto:sachanaditya207@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="42" alt="Gmail" style="border-radius: 50%; background-color: #D14836; padding: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
-</div>
-
-</div>
-
