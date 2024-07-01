@@ -13,7 +13,7 @@
 
 <h2 align="center" style="font-size: 28px;"><strong>Programming Languages</strong></h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,angular,dart,c,svelte,flutter,cpp,js,html)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,angular,dart,c,,flutter,cpp,js,html,svelte)](https://skillicons.dev)
 </div>
 
 <h2 align="center" style="font-size: 28px;"><strong>Tools and Frameworks</strong></h2>
