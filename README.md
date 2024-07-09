@@ -16,12 +16,12 @@
 
 <h2 align="center" style="font-size: 28px;"><strong>Programming Languages</strong></h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,angular,dart,c,flutter,cpp,js,html,svelte,css&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,angular,dart,c,flutter,cpp,js,html,svelte,css&theme=dark)](https://skillicons.dev)
 </div>
 
 <h2 align="center" style="font-size: 28px;"><strong>Tools and Frameworks</strong></h2>
 
-  [![Tools and Frameworks](https://skillicons.dev/icons?i=spring,hibernate,firebase,git,maven,gradle,idea,java,redis,mysql,kafka,docker,kubernetes,appwrite,androidstudio,bash,mongodb,postman,redhat,nodejs&theme=light)](https://skillicons.dev)
+  [![Tools and Frameworks](https://skillicons.dev/icons?i=spring,hibernate,firebase,git,maven,gradle,idea,java,redis,mysql,kafka,docker,kubernetes,appwrite,androidstudio,bash,mongodb,postman,redhat,nodejs&theme=dark)](https://skillicons.dev)
 </div>
 </div>
 
