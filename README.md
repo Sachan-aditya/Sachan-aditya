@@ -1,10 +1,10 @@
 <div style="text-align: center;">
-
+  <h4 style="font-size: 24px; color: #FF69B4;"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" width="50" alt="Indian Flag" /></h4>
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=FF69B4&vCenter=true&random=false&width=750&lines=WELCOME+TO+THE+WORLD+OF+SHARKS;I+LOVE+SHARKS" alt="Typing SVG" />
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdrazBrZTMxcXBqMHoyaWNnamVrcnJvb3VhbW5memR1aTQ1Njg1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/spAa4a5kR6ZRGoy5Te/giphy.gif" alt="Building things GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdrazBrZTMxcXBqMHoyaWNnamVrcnJvb3VhbW5memR1aTQ1Njg1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/spAa4a5kR6ZRGoy5Te/giphy.gif" alt="Building things GIF" width="700" />
   
-  <h4 style="font-size: 24px; color: #FF69B4;">🇮🇳</h4>
+
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachan-aditya&theme=github-dark" height="150" alt="activity-graph graph" />
   <img src="https://streak-stats.demolab.com?user=Sachan-aditya&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
