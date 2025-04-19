@@ -95,13 +95,13 @@
 
   <h2>🌐 Let's Connect</h2>
   <div align="center">
-    <a href="https://www.linkedin.com/in/aditya-sachan-9a782921a/" target="_blank">
+    <a href="https://www.linkedin.com/in/aditya0024/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
     </a>
     <a href="https://github.com/Sachan-aditya" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
     </a>
-    <a href="mailto:sachanaditya78@gmail.com">
+    <a href="mailto:sachanaditya207@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
     </a>
   </div>
