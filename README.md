@@ -10,12 +10,22 @@
 
   <hr>
 
-  <h2>📄 Resume</h2>
-  <div class="resume-button">
-    <a href="https://drive.google.com/file/d/1J5cAP8BXB754_pfhR5VGp2jUs1x60KmJ/view?usp=drive_link" target="_blank">
-      <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive" alt="Resume" />
-    </a>
-  </div>
+<h2>📄 Resume</h2>
+<div class="resume-button" style="display: inline-block; margin-right: 20px;">
+  <a href="https://drive.google.com/file/d/1J5cAP8BXB754_pfhR5VGp2jUs1x60KmJ/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive" alt="Resume" />
+  </a>
+</div>
+
+<h2>👍 Daily Writing Notes</h2>
+<div class="writing-notes" style="display: inline-block;">
+
+<div class="notes-button" style="display: inline-block; margin-left: 20px;">
+  <a href="https://medium.com/@sachanaditya" target="_blank">
+    <img src="https://img.shields.io/badge/Write-Notes-green?style=for-the-badge&logo=medium" alt="Notes" />
+  </a>
+</div>
+
 
   <hr>
 
