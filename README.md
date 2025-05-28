@@ -1,6 +1,5 @@
 <body style="margin: 0; padding: 0;">
 <div style="width: 100%; margin: 0; padding: 0;">
-    <img src="assets/image (2).jpg" alt="Banner" style="width: 100%; max-height: 150px; object-fit: cover; display: block;" />
     <h1>Hi, I'm <span style="color:#f39c12; font-weight: bold;">Aditya Sachan</span> 🇮🇳</h1>
     <h3>A Passionate Full-Stack Developer | Java • Spring Boot • Angular • AI Innovator</h3>
     <p><em>"Crafting tech solutions that make a difference."</em></p>
