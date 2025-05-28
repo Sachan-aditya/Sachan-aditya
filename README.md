@@ -1,7 +1,6 @@
-<body>
-<div align="center">
-    <img src="assets/banner.jpg" alt="Banner" style="width: 100%; max-height: 200px; object-fit: cover;" />
-</div>
+<body style="margin: 0; padding: 0;">
+<div style="width: 100%; margin: 0; padding: 0;">
+    <img src="assets/image (2).jpg" alt="Banner" style="width: 100%; max-height: 150px; object-fit: cover; display: block;" />
     <h1>Hi, I'm <span style="color:#f39c12; font-weight: bold;">Aditya Sachan</span> 🇮🇳</h1>
     <h3>A Passionate Full-Stack Developer | Java • Spring Boot • Angular • AI Innovator</h3>
     <p><em>"Crafting tech solutions that make a difference."</em></p>
@@ -105,7 +104,7 @@
       <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
     </a>
     <a href="mailto:sachanaditya207@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style-for-the-badge" />
     </a>
   </div>
 
