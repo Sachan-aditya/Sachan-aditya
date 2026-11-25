@@ -1,0 +1,31 @@
+{
+  "name": "ADITYA SACHAN",
+  "children": [
+    {"name": "BACKEND", "color": "#f39c12", "children": [
+      {"name": "Java", "children": ["Spring Boot", "REST APIs", "JWT Auth"]},
+      {"name": "Python", "children": ["Automation", "Librosa"]}
+    ]},
+    {"name": "FRONTEND", "color": "#60a5fa", "children": [
+      {"name": "Angular", "children": ["CrickLive"]},
+      {"name": "React", "children": ["Agrofarm", "Razorpay"]},
+      {"name": "Kotlin", "children": ["MuseAI app"]}
+    ]},
+    {"name": "DATA & INFRA", "color": "#2dd4bf", "children": [
+      {"name": "Databases", "children": ["MySQL", "MongoDB", "Redis"]},
+      {"name": "Streaming", "children": ["Kafka"]},
+      {"name": "DevOps", "children": ["Docker", "Firebase", "GitHub Actions"]}
+    ]},
+    {"name": "AI & AGENTS", "color": "#a78bfa", "children": [
+      {"name": "Orchestrator", "children": ["Master agent", "Domain agents", "Email agent", "Calendar agent", "Meeting agent"]},
+      {"name": "ML", "children": ["TensorFlow", "Audio models"]},
+      {"name": "LLM Tooling", "children": ["Tool calling", "RAG"]}
+    ]},
+    {"name": "SYSTEM DESIGN", "color": "#f472b6", "children": [
+      {"name": "MiniStack", "children": ["Mini Redis", "Mini Queue", "Mini Kafka", "Mini DB"]},
+      {"name": "Method", "children": ["Break-it experiments"]}
+    ]},
+    {"name": "WRITING", "color": "#86efac", "children": [
+      {"name": "Medium", "children": ["Daily notes", "Learn in public"]}
+    ]}
+  ]
+}
