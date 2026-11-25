@@ -55,11 +55,13 @@ I write something every day on [Medium](https://medium.com/@sachanaditya) and I 
 
 ---
 
-## `> character_sheet`
+## `> the_skill_tree`
 
 <div align="center">
-<img src="assets/character-sheet.svg" alt="character sheet" width="100%" />
+<img src="assets/tree.svg" alt="Aditya's skill tree: backend, frontend, data and infra, AI agents, system design, writing" width="100%" />
 </div>
+
+<sub>Rendered from <code>data/tree.json</code> by <code>scripts/build_tree.py</code>. Add a branch in the JSON and the tree regrows.</sub>
 
 <div align="center">
 
@@ -80,9 +82,17 @@ I write something every day on [Medium](https://medium.com/@sachanaditya) and I 
 | **MuseAI** | Audio recognition and song recommendations | TensorFlow, Kotlin, Librosa | ✅ Shipped |
 | **Task Manager API** | Secure REST API for task management | Spring Boot, MongoDB, JWT | ✅ Shipped |
 
+### 🤖 AI Project Radar
+
+*Auto-written by an LLM that reads my repos every night. Nothing here is hand-typed.*
+
 <!-- START_SECTION:ai-projects -->
 <!-- AI-generated project summaries get injected here -->
 <!-- END_SECTION:ai-projects -->
+
+<!-- START_SECTION:ai-idea -->
+<!-- AI project idea of the day -->
+<!-- END_SECTION:ai-idea -->
 
 ---
 
