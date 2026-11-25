@@ -1,12 +1,10 @@
-# Setup (5 minutes)
+# Setup
 
-1. Create a public repo named exactly `Sachan-aditya` and push everything in this folder.
-2. Repo Settings > Secrets and variables > Actions > New secret: `ANTHROPIC_API_KEY`.
-3. Repo Settings > Actions > General > Workflow permissions: **Read and write**.
-4. Actions tab > "Update README with AI" > Run workflow. After that it runs daily.
+1. Create a public repo named exactly `Sachan-aditya` and push everything in this folder (keep the folder structure).
+2. Optional AI project radar: add secret `ANTHROPIC_API_KEY` (Settings > Secrets and variables > Actions) and set
+   Settings > Actions > General > Workflow permissions to **Read and write**. Then run the "Update README with AI" workflow once.
+   If you don't want it, delete the `.github/` folder and the "AI project radar" block at the bottom of README.md.
 
-Local test (no network, no key): `MOCK=1 python scripts/update_readme.py`
-Real run: `pip install -r scripts/requirements.txt && ANTHROPIC_API_KEY=... python scripts/update_readme.py`
-
-Tweaks: `MAX_PROJECTS` (default 6), `ANTHROPIC_MODEL` (default claude-sonnet-4-5), prompts live in `scripts/update_readme.py`.
-Without an API key it still runs and falls back to your plain repo descriptions.
+Edit the tiles: change text in `scripts/build_bento.py`, then run `python scripts/build_bento.py` (regenerates assets/light and assets/dark).
+Project tiles link to your repositories page; point each to its exact repo by editing the links in README.md.
+Local test of the AI script without a key: `MOCK=1 python scripts/update_readme.py`
